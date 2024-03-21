@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "omm4jUIvbU0S3aK1uW0PBLqPLfQwaNsyArBFR4k7tPon+F/PyHZZ+oMLH3nkVeRNbuvKP/5WMeOCAys+i4KnTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ROG\\source\\repos\\ShareScreen\\ServerSide\\ServerSide.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROG\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\ROG\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
